@@ -29,7 +29,7 @@ Quali file ho incluso nel commit e perché:
 
 Come ho verificato che la versione provata sia presente su GitHub:
 
-Che cosa ho osservato prima e dopo `git pull`, e perché non serve un nuovo clone:
+Che cosa ho osservato prima e dopo `git pull`, e perché non serve un nuovo clone: è stata sincronizzata la versione più recente presente su github, posseggo già un clone installato che è collegato alla repository remota, con la quale posso fare push e pull di commit.
 
 Verifica del commit svolta con successo.
 
